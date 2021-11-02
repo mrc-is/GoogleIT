@@ -1,0 +1,10 @@
+javascript:var w = window.open("");w.document.write('
+<title>Coursera</title><br>
+
+<a href="https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel#courses"' + ' target="_blank"><p style="text-align:center;"><b>Data Analyst</b></A><br></p><br><br>
+
+<a href="https://www.coursera.org/professional-certificates/ibm-data-science"' + ' target="_blank"><p style="text-align:center;"><b>Data Science</b></A><br></p><br><br>
+
+<a href="https://www.coursera.org/professional-certificates/google-it-automation#courses"' + ' target="_blank"><p style="text-align:center;"><b>IT automation</b></A><br></p><br><br>
+
+');
